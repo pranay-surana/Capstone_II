@@ -24,10 +24,10 @@ ________________________________________________________________________________
    2. Handling Null values : Dealt with Null values, with maximum occurances of its related features. For example, if maximum of admins have completed university degree, then missing education value for admins will is filled with university degree only.<br>
    3. Dropped the rows for which maximum values of columns were null </B>
     
-## Exploratory Data Analysis:
+## Exploratory Data Analysis123:
 ____________________________________________________________________________________________________________________________________________
 
-![alt text](Capture1.png)
+![alt text](https://github.com/pranay-surana/Capstone_II/blob/master/figures/Capture1.PNG)
 
  
   
