@@ -52,7 +52,7 @@ Classification Algorithms used were: Logistic Regression, SVM, Ridge Classificat
 
 Features which are highly important to classify the customers are:
 
-![Feature Importance](https://github.com/pranay-surana/Capstone_II/blob/master/figures/Capture4.PNG)
+![Feature Importance](https://github.com/pranay-surana/Capstone_II/blob/master/figures/Capture4.png)
  
   
 ## Future Improvement
