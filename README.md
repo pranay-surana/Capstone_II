@@ -27,7 +27,7 @@ If we look from marital perspective, Married People have subscribed the product 
 
 ![Product subscribed with respect to Education background and Month wise subscription](https://github.com/pranay-surana/Capstone_II/blob/master/figures/Capture2.PNG)
 
-![Correlation Matrix of Features](https://github.com/pranay-surana/Capstone_II/blob/master/figures/Capture3.PNG)
+![Correlation Matrix of Features](https://github.com/pranay-surana/Capstone_II/blob/master/figures/Capture3.png)
 
 Employee Variation rate, Euribor and Numbers of employee features are highly correlated. 
 
@@ -52,7 +52,7 @@ Classification Algorithms used were: Logistic Regression, SVM, Ridge Classificat
 
 Features which are highly important to classify the customers are:
 
-![Feature Importance](https://github.com/pranay-surana/Capstone_II/blob/master/figures/Capture4.png)
+![Feature Importance](https://github.com/pranay-surana/Capstone_II/blob/master/figures/Capture4.PNG)
  
   
 ## Future Improvement
